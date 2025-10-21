@@ -5,8 +5,8 @@ This repository provides pre-patched firmware files to update the Samsung Galaxy
 This method is based on the guide by [Star_Dust_911 on XDA-Developers](https://xdaforums.com/t/guide-flash-one-ui-8-keep-bootloader-unlock-root-data-intact.4764441/). These files were built for the **INS (India)** CSC.
 
 **Firmware Used:**
-* **New Firmware (A16):** `A356EXXU5CYI8`
-* **Old Firmware (A15):** `A356EXXS5BYF3`
+* **New Firmware (Android 16):** `A356EXXU5CYI8`
+* **Old Firmware (Android 15):** `A356EXXS5BYF3`
 * **SW REV / BIT:** `5` (This method only works because both firmwares have the same bit level)
 
 ---
