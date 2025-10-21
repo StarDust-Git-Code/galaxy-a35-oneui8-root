@@ -2,7 +2,7 @@
 
 This repository provides pre-patched firmware files to update the Samsung Galaxy A35 to One UI 8 (Android 16) **without losing data, root, or an unlocked bootloader.**
 
-This method is based on the guide by [白い熊 on XDA-Developers](https://forum.xda-developers.com/t/how-to-guide-flash-one-ui-8-keeping-bootloader-unlock-root-not-wiping-data.4661817/). These files were built for the **INS (India)** CSC.
+This method is based on the guide by [白い熊 on XDA-Developers](https://xdaforums.com/t/guide-flash-one-ui-8-keep-bootloader-unlock-root-data-intact.4764441/). These files were built for the **INS (India)** CSC.
 
 **Firmware Used:**
 * **New Firmware (A16):** `A356EXXU5CYI8`
